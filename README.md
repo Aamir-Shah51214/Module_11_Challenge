@@ -1,3 +1,2 @@
 # Unit 11 Homework: Mission to Mars
-
-The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
+The data provides insight into the climate patterns at the Curiosity rover’s location on Mars, highlighting distinct cold and warm periods, as well as variations in atmospheric pressure. This information is valuable for future mission planning and understanding Mars’ seasonal changes.
